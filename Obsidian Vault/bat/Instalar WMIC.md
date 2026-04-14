@@ -1,0 +1,1 @@
+Para ejecutar los comandos por "WMIC" se debe de instalar el paquete existen dos métodos, 

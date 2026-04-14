@@ -1,0 +1,20 @@
+.git
+Archivos de Outlook
+Back-Up
+Bats
+Clientes
+Formatos SFTP
+Imagenes
+Libros
+Llaves
+Migracion
+Notas
+Obsidian Vault
+PracticasDevs
+Programas
+Pruebas de Seguridad - Legado
+Script
+Servidores
+Soluciones Laser
+VeraCrypt
+Zabbix

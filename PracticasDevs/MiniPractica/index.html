@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica</title>
+    <!--ENLACES A ARCHIVOS CSS Y FAVICON-->
+    <link rel="stylesheet" href="resources/css/style.css">
+    <link rel="shortcut icon" href="resources/images/LOGO-01.png" type="image/x-icon">
+    <!--ENLACES A ARCHIVOS JS-->
+    <script src="resources/js/script.js" defer></script>
+    <!--ENLACES FUENTES-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav id="nav" class="nav">
+            <div>
+                <img src="resources/images/LOGO-01.png" alt="Imagen Logo" id="logo">
+            </div>
+            <ul>
+                <li><a href="#" class="btn">INICIO</a></li>
+                <li><a href="#" class="btn">ACERCA DE</a></li>
+                <li><a href="#" class="btn">CONTACTO</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <div class="content cont_info">
+                <h1>Solo Pregúntate</h1>
+                <ul>
+                    <li>¿Qué buscas?</li>
+                    <li>¿Lo necesitas?</li>
+                    <li>Si es así, estás en el lugar correcto.</li>
+                </ul>
+            </div>
+            <div class="content cont_form">
+                <h2>COMIENZA POR REGISTRARTE</h2>
+                <form action="resources/python/conecction.py" method="post">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" name="nombre" placeholder="Nombre">
+                    <label for="email">Email:</label>
+                    <input type="email" name="email" placeholder="Email" required>
+                    <label for="password">Contraseña:</label>
+                    <input type="password" name="password" placeholder="Contraseña" required>
+                    <button type="submit">Enviar</button>
+                </form>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>© 2026 Todos los Derechos Reservados.</p>
+    </footer>
+</body>
+</html>
