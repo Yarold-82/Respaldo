@@ -1,0 +1,21 @@
+VMware
+VMware FQDN
+VMware Guest
+VMware Hypervisor
+VMWare SD-WAN VeloCloud by HTTP
+
+WildFly Domain by JMX
+WildFly Server by JMX 
+
+
+10.22.88.89 SERVER GLPI
+
+
+
+=======================================
+ESTUDIAR
+
+POSTMAN
+BRUNO
+API
+REST

@@ -1,0 +1,3 @@
+172.16.2.53 es el tf1sl.solucioneslaser.con - 200.74.199.166 (Puerto 2734)
+172.16.2.39 es el tf2sl.solucioneslaser.con - 200.74.199.164 (Puerto 2734)
+172.16.2.40 es el tf3sl.solucioneslaser.con - 200.74.199.165 (Puerto 2738)

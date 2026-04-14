@@ -1,0 +1,17 @@
+@botfather
+
+start
+
+/newbot
+
+zabbix_notificationbot
+
+
+ZSL_notificacion_bot
+
+
+Use this token to access the HTTP API:
+7769177251:AAETNYMFQgdKH0ITzAMVenZV-qSR9gcow1k
+
+
+Id: -4812187226

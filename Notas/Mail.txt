@@ -1,0 +1,22 @@
+servidor correo entrante: pop.emailsrvr.com
+servidor de correo saliente:secure.emailsrvr.com
+
+usuario@solucioneslaser.com
+contraseña
+
+mas configuraciones
+
+servidor de salida
+user: ps.com.ve
+
+avanzadas
+
+servidor de entrada(pop3)= 110
+Salida(smtp)= 587  o 567
+
+conexion=TLS
+
+clave excel: Sladmin$1989
+
+
+

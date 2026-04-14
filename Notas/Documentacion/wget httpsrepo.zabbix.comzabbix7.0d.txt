@@ -1,0 +1,17 @@
+wget https://repo.zabbix.com/zabbix/7.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_7.0+debian12_all.deb
+dpkg -i zabbix-release_latest_7.0+debian12_all.deb
+apt update
+
+
+
+
+dpkg: atención: `ldconfig' no se ha encontrado en el PATH o no es ejecutable
+dpkg: atención: `start-stop-daemon' no se ha encontrado en el PATH o no es ejecutable
+dpkg: error: no se ha encontrado 2 en el PATH o no es ejecutable
+NOTA: El PATH de root debería incluir habitualmente /usr/local/sbin, /usr/sbin y /sbin.
+
+
+
+
+
+r> /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
