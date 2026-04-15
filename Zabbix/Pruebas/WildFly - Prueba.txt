@@ -1,0 +1,14 @@
+zabbixprueba:8080
+
+172.25.122.112:8080
+
+
+
+172.16.10.28 / QA
+172.16.2.25 / WildflyQA
+172.16.10.30 / QA2
+
+
+Ubicar carpeta
+
+apache2
